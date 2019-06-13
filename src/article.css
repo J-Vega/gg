@@ -1,0 +1,69 @@
+.article-container{
+	background-color: #dedede;
+	margin-top: 12px;
+}
+
+.article-container span{
+	display: inline;
+}
+
+.article-container a{
+	text-decoration: none;
+}
+
+.article-title{
+	text-decoration: none;
+	font-style: normal;
+}
+
+.article-title:hover{
+	cursor: pointer;
+	color: orange;
+}
+
+.article-date{
+	text-align: left;
+	margin-left: 20px;
+	font-size: 12px;
+	color: black;
+}
+
+.article-image{
+	width: 100%;
+	max-width: 600px;
+}
+
+.art-title{
+	color: #2f2f2f;
+	font-size: 32px;
+    font-weight: 600;
+}
+
+.art-subtitle{
+	font-weight: bold;
+}
+
+.art-paragraph{
+	color:#2f2f2f;
+	
+	text-indent: 30px;
+	text-align: left;
+}
+
+.art-paragraph,.verdict-quote{
+	width: 70%;
+	margin: auto;
+}
+
+.verdict-score{
+	
+	font-size: 20px;
+}
+.verdict-quote{
+	
+	font-size: 16px;
+}
+
+.drk-orange{
+	color: #c73100;
+}
