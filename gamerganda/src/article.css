@@ -1,0 +1,55 @@
+.article-container{
+	background-color: #dedede;
+	margin-top: 12px;
+}
+
+.article-container span{
+	display: inline;
+}
+
+.article-container a{
+	text-decoration: none;
+}
+
+.article-title{
+	text-decoration: none;
+	font-style: normal;
+}
+
+.article-title:hover{
+	cursor: pointer;
+	color: orange;
+}
+
+.article-date{
+	text-align: left;
+	margin-left: 20px;
+	font-size: 12px;
+	color: black;
+}
+
+.article-image{
+	width: 100%;
+	max-width: 600px;
+}
+
+.art-subtitle{
+	font-weight: bold;
+}
+
+.art-paragraph{
+	color:#2f2f2f;
+	width: 70%;
+	margin: auto;
+	text-indent: 30px;
+	text-align: left;
+}
+
+.verdict-score{
+	color: #c73100;
+	font-size: 20px;
+}
+.verdict-quote{
+	color: #c73100;
+	font-size: 16px;
+}
