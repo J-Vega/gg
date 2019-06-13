@@ -21,6 +21,7 @@ function App() {
         <Route exact path="/article/cadence-of-hyrule-analassment" component={cadenceofhyruleanalassment} />
         
         </header>
+        <p>GamerGanda</p>
       </div>
     </Router>
   );

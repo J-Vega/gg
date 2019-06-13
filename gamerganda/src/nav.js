@@ -30,8 +30,8 @@ export default class Navbar extends React.Component {
 
 		return (
 			<div className="nav-bar">
-				<img className="gg-logo" src="../gamergandalogo.png"/>
-				<h3 className="title">GamerGanda</h3>
+				<a href='/'><img className="gg-logo" src="../gamergandalogo.png"/>
+				<h3 className="title">GamerGanda</h3></a>
 				
 				<SideNav className="responsive-small-screens"
 					onSelect={(selected) => {

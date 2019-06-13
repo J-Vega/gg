@@ -33,23 +33,37 @@
 	max-width: 600px;
 }
 
+.art-title{
+	color: #2f2f2f;
+	font-size: 32px;
+    font-weight: 600;
+}
+
 .art-subtitle{
 	font-weight: bold;
 }
 
 .art-paragraph{
 	color:#2f2f2f;
-	width: 70%;
-	margin: auto;
+	
 	text-indent: 30px;
 	text-align: left;
 }
 
+.art-paragraph,.verdict-quote{
+	width: 70%;
+	margin: auto;
+}
+
 .verdict-score{
-	color: #c73100;
+	
 	font-size: 20px;
 }
 .verdict-quote{
-	color: #c73100;
+	
 	font-size: 16px;
+}
+
+.drk-orange{
+	color: #c73100;
 }

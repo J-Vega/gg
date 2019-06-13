@@ -6,7 +6,7 @@ export default function cadenceofhyruleanalassment(){
 	return(
 		<div className="article-container">
 			<p className="art-title">Cadence of Hyrule Analassment - Unplayable</p>
-			<p className="art-subtitle">This game is so bad, the Switch won't even let you play it.</p>
+			<p className="art-subtitle drk-orange">This game is so bad, the Switch won't even let you play it.</p>
 			<p className="art-paragraph">
                 You ever get frustrated over game-breaking bugs, or find an inifinite-gold glitch that reminds you this whole experience is just a game you play to
                 forget about real life? 
@@ -15,9 +15,9 @@ export default function cadenceofhyruleanalassment(){
                 This game was set to release on June 13th, and it is currently June 14th in Japan. Maybe there's some timezone they've been keeping secret from us.<br/>
                 I mean you already spent 25 dollars on this game, be grateful that's all Nintendo convinced you to waste."</p>
 
-            <h2 className="verdict-score">Analassment Results: 2.5/10</h2> 
+            <h2 className="verdict-score drk-orange">Analassment Results: 2.5/10</h2> 
             
-            <h2 className="verdict-quote">Nintendo knows that time is money, so at least they only made us wate it twice, amirite? It's almost as bad as this website ffs.</h2>
+            <h2 className="verdict-quote drk-orange">Let's give Nintendo some credit for knowing time is money... at least they only made us waste it once, amirite?</h2>
 		</div>
 		);
 }

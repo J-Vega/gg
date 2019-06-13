@@ -92,7 +92,7 @@ export default class Newsfeed extends React.Component{
 			));
 	return(
 		<div className="newsfeed">
-			<h1>ARTICLES</h1>
+			<h2>ARTICLES</h2>
 			<ul>{articles}</ul>
 			<button value="Nintendo" onClick={
 				this.filterArticles.bind(this)
